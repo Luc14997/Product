@@ -10,7 +10,7 @@
   },
   "name": "lucia-tesei-tp",
   "version": "1.0.0",
-  "description": "",
+  "description": "CRUD de productos con MongoDB y TypeScript",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
