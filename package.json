@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "mongoose": "^9.10.3"
+  },
+  "name": "lucia-tesei-tp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
